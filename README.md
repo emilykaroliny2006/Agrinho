@@ -5,7 +5,7 @@
 - ### Projeto Agrinho 2024
 - ### Colégio Estadual Rio Branco
 - ### NRE-Ivaiporã
-- ### Link do projeto no Github pages https://professor-rafael.github.io/projeto_--_uva_niagara/
+- ### Link do projeto no Github pages https://github.dev/emilykaroliny2006/Agrinho
 - ### Link do projeto no Vercel https://vercel.com/emilykaroliny2006s-projects/agrinho
 - ### 👀 👨‍💻 Gosto de programação, principalmente html, css e um pouco de Javascript...
 - ### Front end e Back end...
